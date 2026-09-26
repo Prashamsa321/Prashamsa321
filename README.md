@@ -119,17 +119,11 @@ A machine-learning based music application that analyzes music data and provides
 
 ## 📜 Certification
 
-**MERN Stack Course — Softwarica**
+**MERN Stack Course **
 
 ---
 
-## 🌐 Languages
 
-* 🇳🇵 Nepali — Native
-* 🇬🇧 English — Fluent
-* 🇮🇳 Hindi — Fluent
-
----
 
 ## 🤝 Connect With Me
 
