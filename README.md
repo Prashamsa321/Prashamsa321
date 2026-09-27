@@ -85,7 +85,7 @@ A full-stack e-commerce web application built with the MERN stack.
 
 ---
 
-### 🎵 MoodWave — Music Popularity & Recommendation App
+### 🎵 MoodWave — Music Popularity & Recommendation App(Group Project)
 
 A machine-learning based music application that analyzes music data and provides song recommendations.
 
